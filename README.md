@@ -36,7 +36,7 @@ The Office Supplies category contributes a large number of transactions and over
 
 7. Top 10 Products Account for a Large Share of Revenue
 
-Analysis of product-level sales shows that the Top 10 best-selling products generate a significant portion of total revenue, indicating a concentration of demand in a small set of items. These products include [insert examples if you like], and most of them belong to the Technology and Office Supplies categories.
+Analysis of product-level sales shows that the Top 10 best-selling products generate a significant portion of total revenue, indicating a concentration of demand in a small set of items. These products include Canon ImageCLASS Printer, Staples Paper Ream and HP LaserJet Printer, and most of them belong to the Technology and Office Supplies categories.
 ---
 
 ##  Tools & Libraries Used
