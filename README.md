@@ -6,6 +6,7 @@ An interactive data analysis project using Python and Jupyter Notebook to explor
 
 ##  Project Structure
 Superstore-sales-Dashboard
+``` bash 
 ├── superstore.ipynb
 ├── Superstore.csv
 ├── Consistent losses.png
@@ -13,7 +14,7 @@ Superstore-sales-Dashboard
 ├── Top 10 Products.png
 ├── Total Sales by region.png
 └── README.md
-
+```
 ---
 
 ##  Objectives
