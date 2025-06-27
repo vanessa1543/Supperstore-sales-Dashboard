@@ -46,7 +46,7 @@ A scatter plot analysis shows a clear negative correlation between discount perc
 ### 3. **Loss-Making Sub-Categories Identified**
 Products like **Tables**, **Bookcases**, and **Binders** consistently result in negative profits, especially when sold with steep discounts.
 
-![Consistent Losses](Consistent%20losses.png)
+![Consistent Losses](Consistent%losses.png)
 
 ### 4. **Top Products Drive a Majority of Revenue**
 A small number of products (Top 10) contribute disproportionately to revenue, suggesting focus areas for inventory and marketing.
