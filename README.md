@@ -5,7 +5,7 @@ An interactive data analysis project using Python and Jupyter Notebook to explor
 ---
 
 ##  Project Structure
-Superstore-sales-Dashboard/
+Superstore-sales-Dashboard
 ├── superstore.ipynb
 ├── Superstore.csv
 ├── Consistent losses.png
